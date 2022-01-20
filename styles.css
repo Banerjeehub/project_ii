@@ -95,12 +95,12 @@ margin:100px 0;
   position: absolute;
   right:450px;
   top:30px;
-  width:9%;
+  width:100px;
 }
 .bottom_cloud{
   position:absolute;
   left:450px;
-  width:9%;
+  width:100px;
 }
 
 .mountain{
